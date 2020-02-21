@@ -1,0 +1,24 @@
+body{
+    font-family: 'PT Sans';
+}
+
+h1{
+    font-size: 50px;
+}
+
+.NameHighlight{
+    color: orange;
+}
+
+.HalfWidth{
+    width: 40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.HalfWidth img{
+    width: 100%;
+    padding-bottom: 10%;
+    margin-top: 10% ;
+    padding-top: 2%;
+}
