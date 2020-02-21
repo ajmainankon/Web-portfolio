@@ -7,7 +7,7 @@ h1{
     font-size: 50px;
 }
 
-.NameHighlight{
+.OrangeHighlight{
     color: orange;
 }
 
@@ -66,7 +66,7 @@ section{
 .TopBanner2{  
     background-image: url("images/dream-bg.png");
     background-repeat: no-repeat;
-    background-position: right bottom ;
+    background-position: right;
 }
 
 
@@ -79,3 +79,45 @@ section{
 
 }
 
+.ExperienceModification{
+    color: orange;
+    padding: 10px 120px;
+    border-radius: 25px;
+
+}
+
+.SingleExperience{
+    box-sizing: border-box;
+    box-shadow: 10px 10px 40px grey;
+    border-radius:  5px;
+    height: 80%;
+    
+    
+}
+
+.ExperienceAdjust{
+    margin: 10px 40px 10px 0px;
+}
+
+.ExperienceArea{
+    
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+  
+
+}
+
+#DesignBox{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightSalmon, tomato);
+    border-image-slice: 1;
+}
+#DesignBox2{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, rgb(122, 166, 255), blue);
+    border-image-slice: 1;
+}
+
+footer p{
+    text-align: center;
+}
